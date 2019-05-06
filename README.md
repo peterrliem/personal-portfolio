@@ -1,2 +1,2 @@
 # personal-portfolio
-More about myself. 
+More about myself [here] (https://peterrliem.wixsite.com/website).
