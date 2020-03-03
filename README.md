@@ -1,4 +1,7 @@
 # personal-portfolio
+
+Currently at Gojek!
+
 More about myself [here](https://peterrliem.wixsite.com/website]).
 
 You can view my [blog](https://medium.com/@peterrliem).
