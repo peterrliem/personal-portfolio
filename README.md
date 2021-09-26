@@ -1,11 +1,7 @@
 # personal-portfolio
 
-Currently at Gojek!
+Currently at Grab!
 
-More about myself [here](https://peterrliem.wixsite.com/website]).
+More about myself [here](https://petertherock.notion.site/Peter-Liem-e877ca1ce67d4d19b0e04a9004236cec).
 
-You can view my [blog](https://medium.com/@peterrliem).
-
-I also [tweet](https://twitter.com/peterrliem).
-
-A video about myself [here](https://www.youtube.com/watch?v=GOjilZG16_0&feature=youtu.be).
+I also [tweet](https://twitter.com/p_petertherock).
